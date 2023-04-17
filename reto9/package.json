@@ -1,0 +1,19 @@
+{
+  "name": "reto9",
+  "version": "1.0.0",
+  "description": "reto 9 adventjs midu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1lcarlos/retos_adventjs.git"
+  },
+  "author": "Luis Carlos Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1lcarlos/retos_adventjs/issues"
+  },
+  "homepage": "https://github.com/1lcarlos/retos_adventjs#readme"
+}
